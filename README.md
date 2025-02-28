@@ -13,7 +13,7 @@ In the past I gained expertise in PYTHON, SQL, EXCEL and visualisation tools.
 Here on GitHub you'll find a collection of projects that highlight my journey in data analysis. 
 Let’s connect and turn data into action!
 
-📫 Reach me on [LinkedIn](www.linkedin.com/in/sebastian-bangemann) to discuss ideas or opportunities!
+📫 Reach me on [LinkedIn](www.linkedin.com/in/sebastian-bangemann/) to discuss ideas or opportunities!
 
 <!--
 **seb-bange/seb-bange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
