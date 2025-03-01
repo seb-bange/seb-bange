@@ -10,7 +10,7 @@ Over the time, I have gained expertise in Python, SQL, Excel, and various visual
 
 👨‍💻 In my free time, I stay up to date with emerging trends and techniques in the ever-evolving data world.
 
-Here on GitHub, you’ll find a collection of projects that showcase my journey in data analysis. Let’s connect and transform data into meaningful action!
+Here on GitHub, you’ll find a [collection of projects](https://github.com/seb-bange/unicorn_project) that showcase my journey in data analysis. Let’s connect and transform data into meaningful action!
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sebastian-bangemann/) to discuss ideas or opportunities!
 
